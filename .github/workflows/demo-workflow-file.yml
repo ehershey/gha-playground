@@ -5,7 +5,7 @@ jobs:
     name: Hello world
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@latest
+    - uses: actions/checkout@v4
     - name: Write a multi-line message
       run: |
         echo This demo file shows a 
