@@ -1,4 +1,5 @@
 on: [push]
+
 jobs:
   build:
   name: Hello world
@@ -9,4 +10,3 @@ jobs:
     run: |
       echo This demo file shows a 
       echo very basic and easy-to-understand workflow.
-
