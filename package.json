@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ehershey/gha-playground/issues"
   },
-  "homepage": "https://github.com/ehershey/gha-playground#readme"
+  "homepage": "https://github.com/ehershey/gha-playground#readme",
+  "dependencies": {
+    "jstest": "^1.0.5"
+  }
 }
